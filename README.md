@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj4477&show_icons=true&locale=en&layout=compact" alt="raj4477" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhicoderss&show_icons=true&locale=en" alt="abhicoderss" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj4477&show_icons=true&locale=en" alt="raj4477" /></p>
 
