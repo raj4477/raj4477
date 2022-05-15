@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Flutter-Frontend
+- 🔭 I’m currently working on Flutter-Frontend and MERN Stack
 - 👯 I’m looking to collaborate on Open source Projects
 - 📫 How to reach me: rajritik200177@gmail.com
 
