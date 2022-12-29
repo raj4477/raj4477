@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hello there! I'm Ritik Raj.<img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
 
 
 <!-- **raj4477/raj4477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
