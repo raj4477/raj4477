@@ -4,7 +4,7 @@
 <!-- **raj4477/raj4477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fixing+bugs+😅+;Working+on+various+side+projects;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fixing+bugs+😅+;Working+on+various+side+projects;Lets+catch+up,+connect+with++me;on+Linkedin😄)](https://git.io/typing-svg)
 <img align="right"  alt="GIF" src="src/coder.gif" height="320" />
 - 🔭 I’m currently working on Flutter-Frontend and MERN Stack
 - 👯 I’m looking to collaborate on Open source Projects
