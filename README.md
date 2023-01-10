@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fixing+bugs+😅+;Working+on+various+side+projects;Lets+catch+up,+connect+with++me;on+Linkedin😄)](https://git.io/typing-svg)
 <img align="right"  alt="GIF" src="src/coder2.gif" height="320" />
-- 🔭 I’m currently working on Flutter-Frontend and MERN Stack
+- 🔭 I’m currently learning on MERN Stack
 - 👯 I’m looking to collaborate on Open source Projects
 - 📫 How to reach me: rajritik200177@gmail.com
 
